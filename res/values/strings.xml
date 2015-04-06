@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cash</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cash_desk_edittext_hint">amount</string>
+    <string name="cash_desk_label_text">Required amount:</string>
+    <string name="inventory">Inventory:</string>
+    <string name="get_cash">Get cash</string>
+    <string name="restock">Restock</string>
+    <string name="invalid_input">Error: invalid input</string>
+    <string name="invalid_amount">Error: invalid amount</string>
+
+</resources>
